@@ -1,0 +1,1 @@
+# mailtrap_django_mail_sending
